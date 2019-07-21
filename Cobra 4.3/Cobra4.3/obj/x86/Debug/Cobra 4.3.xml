@@ -1,0 +1,241 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cobra 4.3
+</name>
+</assembly>
+<members>
+<member name="T:Cobra4._3.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Cobra4._3.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Cobra4._3.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Cobra4._3.My.Resources.Resources.cobrainicio">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Cobra4._3.DirectivosCecyt8DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Cobra4._3.DirectivosCecyt8DataSet.AUTORIDADESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cobra4._3.DirectivosCecyt8DataSet.AUTORIDADESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cobra4._3.DirectivosCecyt8DataSet.AUTORIDADESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cobra4._3.DirectivosCecyt8DataSetTableAdapters.AUTORIDADESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cobra4._3.DirectivosCecyt8DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Cobra4._3.DirectivosCecyt8DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Cobra4._3.DirectivosCecyt8DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Cobra4._3.DirectivosCecyt8DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Cobra4._3.DirectivosCecyt8DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Cobra4._3.DirectivosCecyt8DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Cobra4._3.DirectivosCecyt8DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Cobra4._3.DirectivosCecyt8DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Cobra4._3.DirectivosCecyt8DataSetTableAdapters.TableAdapterManager.UpdateAll(Cobra4._3.DirectivosCecyt8DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Cobra4._3.DirectivosCecyt8DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Cobra4._3.DirectivosCecyt8DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.ALUMNODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.DIRECTIVODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.EMPRESADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.PROFESORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.VISITADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.ALUMNORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.DIRECTIVORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.EMPRESARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.PROFESORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.VISITARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.ALUMNORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.DIRECTIVORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.EMPRESARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.PROFESORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSet.VISITARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSetTableAdapters.ALUMNOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSetTableAdapters.DIRECTIVOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSetTableAdapters.EMPRESATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSetTableAdapters.PROFESORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSetTableAdapters.VISITATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Cobra4._3.UPISCECYT8DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Cobra4._3.UPISCECYT8DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Cobra4._3.UPISCECYT8DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Cobra4._3.UPISCECYT8DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Cobra4._3.UPISCECYT8DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Cobra4._3.UPISCECYT8DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Cobra4._3.UPISCECYT8DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Cobra4._3.UPISCECYT8DataSetTableAdapters.TableAdapterManager.UpdateAll(Cobra4._3.UPISCECYT8DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Cobra4._3.UPISCECYT8DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

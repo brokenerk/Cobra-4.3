@@ -1,0 +1,119 @@
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Cobra 4.3.exe.config
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Interop.ACTIVEXLib.dll
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Interop.LCC11.dll
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Interop.MsmMergeTypeLib.dll
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Interop.MsoEuro.dll
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4.3.vbproj.ResolveComReference.cache
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\DirectivosCecyt8.mdb
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\UPISCECYT8.mdb
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Cobra 4.3.exe
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Cobra 4.3.pdb
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Cobra 4.3.xml
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Microsoft.Office.InfoPath.Permission.dll
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4.3.vbprojResolveAssemblyReference.cache
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmInicio.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmContol.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmGenerar.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmNuevo.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmInforme.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmFundamentacion.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmCoordinacion.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmControl.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmGener.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmFund.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmMensual.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmProfesor.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmSelct.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmInformeEx.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.Form23.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmMenu.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmAlumno.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmEmpresa.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmVisita.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmDirectivo.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.Form8.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmDocumentos.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FormPantallaCarga.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.Resources.resources
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4.3.vbproj.GenerateResource.Cache
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra 4.3.exe
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra 4.3.xml
+F:\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra 4.3.pdb
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Cobra 4.3.exe.config
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Interop.ACTIVEXLib.dll
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Interop.MsmMergeTypeLib.dll
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4.3.vbproj.ResolveComReference.cache
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra 4.3.exe
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra 4.3.xml
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra 4.3.pdb
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\DirectivosCecyt8.mdb
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\UPISCECYT8.mdb
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Cobra 4.3.exe
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Cobra 4.3.pdb
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Cobra 4.3.xml
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Microsoft.Office.InfoPath.Permission.dll
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4.3.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmInicio.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmContol.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmGenerar.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmNuevo.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmInforme.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmFundamentacion.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmCoordinacion.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmControl.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmGener.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmFund.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmMensual.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmProfesor.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmSelct.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmInformeEx.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.Form23.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmMenu.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmAlumno.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmEmpresa.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmVisita.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmDirectivo.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.Form8.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmDocumentos.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FormPantallaCarga.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.Resources.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4.3.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4.3.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Interop.ACTIVEXLib.dll
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Interop.MsmMergeTypeLib.dll
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4.3.vbproj.ResolveComReference.cache
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmInicio.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmContol.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmGenerar.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmNuevo.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmInforme.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmFundamentacion.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmCoordinacion.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmControl.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmGener.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmFund.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmMensual.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmProfesor.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmSelct.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmInformeEx.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.Form23.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmMenu.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmAlumno.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmEmpresa.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmVisita.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmDirectivo.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.Form8.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FrmDocumentos.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.FormPantallaCarga.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4._3.Resources.resources
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4.3.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra4.3.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra 4.3.exe
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra 4.3.xml
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\obj\x86\Debug\Cobra 4.3.pdb
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\DirectivosCecyt8.mdb
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\UPISCECYT8.mdb
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Cobra 4.3.exe.config
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Cobra 4.3.exe
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Cobra 4.3.pdb
+C:\Users\USUARIO\Google Drive\VOCA8\6º SEMESTRE\Proyecto Informatico\Dont let me down CON DISEÑO v4.3\Cobra4.3\bin\Debug\Cobra 4.3.xml

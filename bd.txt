@@ -1,0 +1,51 @@
+DIRECTIVO
+
+INSERT INTO DIRECTIVO
+                         ([Clave Directivo], [Area Directivo])
+VALUES        (?, ?)
+
+SELECT        [Clave Directivo]
+FROM            DIRECTIVO
+GROUP BY [Clave Directivo]
+
+UPDATE       DIRECTIVO
+SET                [Clave Directivo] = ?, [Area Directivo] = ?
+WHERE        ([Clave Directivo] = ?)
+
+DELETE FROM DIRECTIVO
+WHERE        ([Clave Directivo] = ?)
+
+
+
+EMPRESA
+
+UPDATE       EMPRESA
+SET                [Telefono Empresa] = ?, [Nombre Empresa] = ?, Direccion = ?, Giro = ?, [Email Empresa] = ?, Clave = ?
+WHERE        ([Nombre Empresa] = ?)
+
+INSERT INTO EMPRESA
+                         ([Telefono Empresa], [Nombre Empresa], Direccion, Giro, [Email Empresa], Clave)
+VALUES        (?, ?, ?, ?, ?, ?)
+
+SELECT        [Nombre Empresa]
+FROM            EMPRESA
+GROUP BY [Nombre Empresa]
+
+
+
+VISITA
+
+SELECT        [No Practica]
+FROM            VISITA
+GROUP BY [No Practica]
+
+INSERT INTO VISITA
+                         (Costo, [Competencia (RAP)], [Programa Academico], Asistentes, [No Practica], Fecha, [Clave Directivo])
+VALUES        (?, ?, ?, ?, ?, ?, ?)
+
+UPDATE       VISITA
+SET                Costo = ?, [Competencia (RAP)] = ?, [Programa Academico] = ?, Asistentes = ?, [No Practica] = ?, Fecha = ?, [Clave Directivo] = ?
+WHERE        ([No Practica] = ?)
+
+DELETE FROM VISITA
+WHERE        ([No Practica] = ?)
